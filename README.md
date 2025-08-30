@@ -66,25 +66,28 @@ A contact management system with full CRUD operations.
 CODSOFT/
 │
 ├── Task 1 To-Do List App/
-│   └── todo_app.py
+│   ├── todo_app.py
+│   └── Task-1_ To-Do List App DEMO.mp4
 │
 ├── Task 2 Simple Calculator App/
-│   └── calculator.py
+│   ├── calculator.py
+│   └── Calculator DEMO.mp4
 │
 ├── Task 3 Password Generator App/
-│   └── secure_password_generator.py
+│   ├── secure_password_generator.py
+│   └── password_generator DEMO.mp4
 │
 ├── Task 4 Rock-Paper-Scissors Game/
-│   └── rock_paper_scissors.py
+│   ├── rock_paper_scissors.py
+│   └── rock-paper-scissors_game DEMO.mp4
 │
 ├── Task 5 Contact Book/
-│   └── contact_book.py
+│   ├── contact_book.py
+│   └── contact_book DEMO.mp4
 │
 ├── contacts.json
 ├── tasks.json
-├── README.md
-├── LICENSE
-└── .gitattributes
+└── README.md
 
 ```
 
